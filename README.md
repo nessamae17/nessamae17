@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nessamae17!
+- 👋 Hi, I’m Vanessa Almelor (@nessamae17)!
 - 👀 I’m interested in mathematics, coding, and baking.
 - 🌱 I’m currently learning python and SQL.
 - 📫 How to reach me: valmelor@gmail.com.
